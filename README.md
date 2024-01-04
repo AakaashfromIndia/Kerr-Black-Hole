@@ -1,0 +1,4 @@
+This code made with Python simulates a Kerr black hole, a rotating black hole solution to Einstein's field equations in general relativity. 
+In this simulation, a photon or a particle is used to represent the behavior of light near a Kerr black hole.
+The black hole's gravitational influence causes the photon to exhibit interesting phenomena such as gravitational capture and orbital decay. The simulation allows users to interactively generate particle beams and observe their trajectories as they are affected by the gravitational pull of the rotating black hole.
+The code employs Pygame for visualization, offering a graphical representation of the Kerr black hole's event horizon and the intricate dynamics of particles near it. The simulation captures key aspects of the Kerr black hole, including the Schwarzschild radius, frame dragging, event horizon, and the unique orbital decay of particles as they approach the singularity.
